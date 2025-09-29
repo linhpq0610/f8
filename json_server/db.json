@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "course": [
+    {
+      "id": 1,
+      "name": "js-basic",
+      "description": "desc1"
+    },
+    {
+      "id": 2,
+      "name": "nodejs-basic",
+      "description": "desc2"
+    },
+    {
+      "id": 3,
+      "name": "reactjs-basic",
+      "description": "desc3"
+    },
+    {
+      "name": "linux-command",
+      "description": "desc4",
+      "id": 4
+    },
+    {
+      "name": "cpp-basic",
+      "description": "desc6",
+      "id": 6
+    },
+    {
+      "name": "java-basic",
+      "description": "desc5",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
